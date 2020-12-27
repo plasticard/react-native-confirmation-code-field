@@ -31,7 +31,8 @@ A simple react-native confirmation code field compatible with iOS, Android.
 ## Install
 
 ```sh
-yarn add react-native-confirmation-code-field
+# Support React Native 0.64.x and above
+yarn add react-native-confirmation-code-field@next
 ```
 
 ## How it works
